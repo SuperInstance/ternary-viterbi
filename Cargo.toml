@@ -1,0 +1,7 @@
+[package]
+name = "ternary-viterbi"
+version = "0.1.0"
+edition = "2021"
+description = "Viterbi decoder for ternary state sequences — find the most likely path through {-1, 0, +1} states"
+license = "MIT"
+repository = "https://github.com/SuperInstance/ternary-viterbi"
